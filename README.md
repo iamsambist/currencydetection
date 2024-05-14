@@ -1,10 +1,7 @@
-# CameraX in Java
-Implementation of CameraX In Java.
-
-## Tutorial
-This project is a reference code made for the video 'Camera X in Java | Image Capture, Video Capture, Image Analysis'.
-
-[Watch tutorial](https://youtu.be/IrwhjDtpIU0)
+# ML RESNET 50 Model
+Dataset size more than 15K
+accuracy more than 90%
+tested echos 15
 
 ## Getting Started
 
